@@ -3204,6 +3204,7 @@
     <Content Include="Assets\Plugins\jquery-ui-1.12.1\package.json" />
     <None Include="packages.config" />
     <Content Include="PaginaMaster.Master" />
+    <None Include="Properties\PublishProfiles\portalVentasSoftware3 - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
